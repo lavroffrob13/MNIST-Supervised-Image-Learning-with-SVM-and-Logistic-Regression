@@ -1,4 +1,4 @@
-# CS_260_hw1
+# MNIST Supervised Image Learning with SVM and Logisitc Regression
 
 One .py file exists for logistic regression (hw1_log_reg.py) and another exists for SVM (hw1_SVM.py). Either can be run in PyCharm, or in a terminal using "python hw1_log_reg.py" and "python hw1_SVM.py). The programs can be run as-is, or after tuning some or all of the following hyperparameters:
 
